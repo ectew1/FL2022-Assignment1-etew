@@ -1,0 +1,46 @@
+﻿body {
+    background-color: #5b7c84;
+    text-align: center;
+}
+
+#title {
+    color: #2a3e44;
+    font-weight: bold;
+}
+
+#coverArt {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+#rating {
+    color: #2a3e44;
+    font-weight: bold;
+}
+
+#trailer {
+    width: 400px;
+    height: 200px;
+}
+
+#imbdPage {
+    color: white;
+    font-weight: bold;
+}
+
+#summary {
+    color: #2a3e44;
+    font-weight: bold;
+}
+
+#actorHeader {
+    color: white;
+    font-weight: bold;
+}
+
+#actors {
+    list-style-position: inside;
+    color: white;
+    font-weight: bold;
+}
